@@ -4,6 +4,7 @@ collection: publications
 category: journals
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper studies the impact of random misalignment on millimeter-wave orbital angular momentum (OAM) systems capacity.'
+date: 2024-02-01
 venue: 'IEEE Open Journal of the Communications Society, vol. 5, pp. 1141-1154'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10418466'
 citation: 'X. Cui, K. -H. Park and M. -S. Alouini, "Effect of Random Misalignment in the Capacity of Millimeter-Wave OAM," <i>IEEE Open Journal of the Communications Society</i>, vol. 5, pp. 1141-1154, 2024, doi: 10.1109/OJCOMS.2024.3361438.'
