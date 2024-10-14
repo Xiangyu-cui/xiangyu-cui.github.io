@@ -33,14 +33,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=XKDc8r0AAAAJ&hl"
   impactstory      : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Xiangyu-Cui-4"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -53,7 +51,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/cui-xiangyu-545952256/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
