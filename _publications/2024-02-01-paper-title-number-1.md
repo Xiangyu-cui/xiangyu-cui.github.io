@@ -2,7 +2,7 @@
 title: "Effect of Random Misalignment in the Capacity of Millimeter-Wave OAM"
 collection: publications
 category: journals
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-01-paper-title-number-1
 excerpt: 'This paper studies the impact of random misalignment on millimeter-wave orbital angular momentum (OAM) systems capacity.'
 date: 2024-02-01
 venue: 'IEEE Open Journal of the Communications Society, vol. 5, pp. 1141-1154'
