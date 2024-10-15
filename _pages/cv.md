@@ -18,7 +18,7 @@ Radio Astronomy, Robotics, Bioelectronics, Medical Computer Vision, Machine Lear
 **University of Electronic Science and Technology of China (UESTC)**  
 *Bachelor of Engineering*, Communication Engineering  
 September 2019 - July 2023, Chengdu, China  
-**GPA**: 3.95  
+**GPA**: 3.93  
 
 **King Abdullah University of Science and Technology (KAUST)**  
 *Master of Science with Thesis*, Electrical and Computer Engineering  
