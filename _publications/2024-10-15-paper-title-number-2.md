@@ -1,4 +1,3 @@
-
 ---
 title: "(Under review) Near-Field Analysis of Extremely LargeScale MIMO: Power, Correlation, and User Selection"
 collection: publications
