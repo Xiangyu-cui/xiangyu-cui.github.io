@@ -5,5 +5,4 @@ collection: publications
 category: manuscripts
 date: 2024-10-15
 venue: 'IEEE Open Journal of the Communications Society'
-paperurl: 'non'
 ---
