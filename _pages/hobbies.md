@@ -7,7 +7,7 @@ author_profile: true
 
 ## Hobbies
 I like to take photos. Here are some of my works:
-![_MG_0011](../my_pictures/_MG_0011.jpg)
+![imag0011](../my_pictures/imag0011.jpg)
 ![MG_0013](../my_pictures/_MG_0013.jpg)
 ![MG_0015](../my_pictures/_MG_0015.jpg)
 ![MG_6304](../my_pictures/_MG_6304.jpg)
