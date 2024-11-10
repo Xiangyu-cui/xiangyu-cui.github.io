@@ -30,6 +30,6 @@ I like to take photos. Here are some of my works:
 ![看美丽城市的女孩](../my_pictures/看美丽城市（实际时熊猫猫）的女孩.jpg)
 ![竹林里的椅子](../my_pictures/竹林里的椅子.jpg)
 ![kaust_sunset](../my_pictures/kaust_sunset.jpg)
-![Iimag20240126_184038](../my_pictures/Iimag20240126_184038.jpg)
+![IMG_20240126_184038](../my_pictures/IMG_20240126_184038.jpg)
 
 
