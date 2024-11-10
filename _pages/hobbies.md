@@ -27,7 +27,7 @@ I like to take photos. Here are some of my works:
 ![夕阳中小憩的老妪](../my_pictures/夕阳中小憩的老妪.jpg)
 ![微信图片_20240108012059](../my_pictures/微信图片_20240108012059.jpg)
 ![椅子](../my_pictures/椅子.jpg)
-![看美丽城市的女孩](../my_pictures/看美丽城市（实际时熊猫猫）的女孩.jpg)
+![看美丽城市的女孩](../my_pictures/看美丽城市（实际时熊猫）的女孩.jpg)
 ![竹林里的椅子](../my_pictures/竹林里的椅子.jpg)
 ![kaust_sunset](../my_pictures/kaust_sunset.jpg)
 ![IMG_20240126_184038](../my_pictures/IMG_20240126_184038.jpg)
