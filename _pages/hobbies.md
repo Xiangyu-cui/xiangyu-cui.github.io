@@ -17,7 +17,7 @@ I like to take photos. Here are some of my works:
 ![imag8349](../my_pictures/imag8349.jpg)
 ![imag9608](../my_pictures/imag9608.jpg)
 ![imag9617](../my_pictures/imag9617.jpg)
-![imag9623](../my_pictures/imag9623.jpg)s
+![imag9623](../my_pictures/imag9623.jpg)
 ![imag9775](../my_pictures/imag9775.jpg)
 ![imag9810](../my_pictures/imag9810.jpg)
 ![imag9949](../my_pictures/imag9949.jpg)
