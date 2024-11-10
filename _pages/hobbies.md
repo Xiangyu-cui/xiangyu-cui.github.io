@@ -7,3 +7,26 @@ author_profile: true
 
 ## Hobbies
 I like to take photos. Here are some of my works:
+![MG_0011](../my_pictures/_MG_0011.JPG)
+![MG_0013](../my_pictures/_MG_0013.JPG)
+![MG_0015](../my_pictures/_MG_0015.JPG)
+![MG_6304](../my_pictures/_MG_6304.jpg)
+![MG_6877](../my_pictures/_MG_6877.jpg)
+![MG_7107](../my_pictures/_MG_7107.jpg)
+![MG_8253](../my_pictures/_MG_8253.jpg)
+![MG_8349](../my_pictures/_MG_8349.jpg)
+![MG_9608](../my_pictures/_MG_9608.JPG)
+![MG_9617](../my_pictures/_MG_9617.JPG)
+![MG_9623](../my_pictures/_MG_9623.JPG)
+![MG_9775](../my_pictures/_MG_9775.JPG)
+![MG_9810](../my_pictures/_MG_9810.JPG)
+![MG_9949](../my_pictures/_MG_9949.JPG)
+![mmexport1675848311928](../my_pictures/mmexport1675848311928.jpg)
+![三个走路人](../my_pictures/三个走路人.jpg)
+![光影](../my_pictures/光影.jpg)
+![夕阳中小憩的老板](../my_pictures/夕阳中小憩的老板.jpg)
+![微信图片_20240108012059](../my_pictures/微信图片_20240108012059.jpg)
+![椅子](../my_pictures/椅子.jpg)
+![看美丽城市的女孩](../my_pictures/看美丽城市（实际上懒猫）的女孩.jpg)
+![竹林里的椅子](../my_pictures/竹林里的椅子.jpg)
+
