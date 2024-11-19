@@ -52,6 +52,13 @@ X. Cui, K.-H. Park, and M.-S. Alouini, "Near-Field Analysis of Extremely Large-S
 - **In progress**:  
 X. Cui, K.-H. Park, and M.-S. Alouini, "Application of the beam squint effect on sensing in the near-field," work in progress, 2024.
 
+## Conferences
+4th KAUST 6G Summit, 27 Nov 2023 - 29 Nov 2023 Thuwal, Makkah Province, Saudi Arabia
+
+5th KAUST 6G Summit, 4 Nov 2024 - 5 Nov 2024 Thuwal, Makkah Province, Saudi Arabia
+
+Abu Dhabi 6G Summit, 14 Nov 2024 - 15 Nov 2024 Abu Dhabi, UAE
+
 ## Main Awards
 - **National Scholarship of China** (Twice): December 2020, November 2021  
 - **Excellent Student Scholarship of UESTC** (Twice): December 2020, November 2021  
