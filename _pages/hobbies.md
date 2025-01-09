@@ -31,5 +31,7 @@ I like to take photos. Here are some of my works:
 ![竹林里的椅子](../my_pictures/竹林里的椅子.jpg)
 ![kaust_sunset](../my_pictures/kaust_sunset.jpg)
 ![IMG_20240126_184038](../my_pictures/IMG_20240126_184038.jpg)
-
-
+![_MG_0982](../my_pictures/_MG_0982.jpg)
+![_MG_2953](../my_pictures/_MG_2953.jpg)
+![_MG_2965](../my_pictures/_MG_2965.jpg)
+![_MG_3244](../my_pictures/_MG_3244.jpg)
