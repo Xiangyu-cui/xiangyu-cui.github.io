@@ -28,7 +28,6 @@ August 2023 - Present, Thuwal, Saudi Arabia
 ## Academic Experience
 **Research on specific emitter identification via IQ imbalance**  
 - Intern at UESTC, September 2021 - April 2022  
-- Supervised by Prof. Wenhui Xiong
 
 **Performance analysis of OAM under misalignment**  
 - Intern at the Communication Theory Laboratory (CTL) at KAUST, April 2022 - July 2023  
