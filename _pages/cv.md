@@ -26,8 +26,6 @@ August 2023 - Present, Thuwal, Saudi Arabia
 **GPA**: 4.00  
 
 ## Academic Experience
-**Research on specific emitter identification via IQ imbalance**  
-- Intern at UESTC, September 2021 - April 2022  
 
 **Performance analysis of OAM under misalignment**  
 - Intern at the Communication Theory Laboratory (CTL) at KAUST, April 2022 - July 2023  
