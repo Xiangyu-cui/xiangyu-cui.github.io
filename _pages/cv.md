@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+My current email: xc3212@nyu.edu
 ## Research Interests
 Wireless Communication (Near-Field Communication, XL-MIMO, OAM)
 
@@ -18,7 +19,7 @@ September 2019 - July 2023, Chengdu, China
 
 **King Abdullah University of Science and Technology (KAUST)**  
 *Master of Science with Thesis*, Electrical and Computer Engineering  
-August 2023 - Present, Thuwal, Saudi Arabia  
+August 2023 - July 2025, Thuwal, Saudi Arabia  
 **GPA**: 4.00  
 
 ## Academic Experience
