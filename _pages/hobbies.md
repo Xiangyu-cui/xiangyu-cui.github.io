@@ -7,6 +7,9 @@ author_profile: true
 
 ## Hobbies
 I like to take photos. Here are some of my works:
+
+<div class="hobby-gallery" markdown="1">
+
 ![imag0011](../my_pictures/imag0011.jpg)
 ![imag0013](../my_pictures/imag0013.jpg)
 ![imag0015](../my_pictures/imag0015.jpg)
@@ -34,3 +37,5 @@ I like to take photos. Here are some of my works:
 ![2953](../my_pictures/2953.jpg)
 ![2965](../my_pictures/2965.jpg)
 ![3244](../my_pictures/3244.jpg)
+
+</div>

@@ -33,14 +33,16 @@ redirect_from:
       <h3>King Abdullah University of Science and Technology (KAUST)</h3>
       <span>Aug. 2023 - Jul. 2025</span>
     </div>
-    <p>M.S. with Thesis in Electrical and Computer Engineering, supervised by Prof. Mohamed-Slim Alouini. GPA: 4.00/4.00. Thuwal, Saudi Arabia.</p>
+    <p>M.S. with Thesis in Electrical and Computer Engineering, supervised by Prof. Mohamed-Slim Alouini. Thuwal, Saudi Arabia.</p>
+    <p class="cv-gpa"><strong>GPA:</strong> 4.00/4.00</p>
   </div>
   <div class="cv-item">
     <div class="cv-item__header">
       <h3>University of Electronic Science and Technology of China (UESTC)</h3>
       <span>Sept. 2019 - Jul. 2023</span>
     </div>
-    <p>B.Eng. in Communication Engineering. GPA: 3.93/4.00. Chengdu, China.</p>
+    <p>B.Eng. in Communication Engineering. Chengdu, China.</p>
+    <p class="cv-gpa"><strong>GPA:</strong> 3.93/4.00</p>
   </div>
 </section>
 
@@ -155,17 +157,22 @@ redirect_from:
 
 <section class="cv-section">
   <h2>Technical Skills</h2>
-  <div class="skill-cloud">
-    <span>C</span>
-    <span>MATLAB</span>
-    <span>Python</span>
-    <span>LaTeX</span>
-    <span>Mathematica</span>
-    <span>Keil5</span>
-    <span>PyTorch</span>
-    <span>Wireless communication</span>
-    <span>Near-field communication</span>
-    <span>XL-MIMO</span>
-    <span>Continuous aperture arrays</span>
-  </div>
+  <dl class="skill-table">
+    <div>
+      <dt>Languages</dt>
+      <dd>C, MATLAB, Python, LaTeX</dd>
+    </div>
+    <div>
+      <dt>Software</dt>
+      <dd>MATLAB, Keil5, Mathematica</dd>
+    </div>
+    <div>
+      <dt>Research Areas</dt>
+      <dd>Wireless communication, near-field communication, XL-MIMO, continuous aperture arrays</dd>
+    </div>
+    <div>
+      <dt>ML Framework</dt>
+      <dd>PyTorch</dd>
+    </div>
+  </dl>
 </section>
