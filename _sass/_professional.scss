@@ -1,0 +1,253 @@
+/* ==========================================================================
+   Professional profile pages
+   ========================================================================== */
+
+:root {
+  --profile-ink: #253040;
+  --profile-muted: #5f6f82;
+  --profile-line: #d9e1ea;
+  --profile-accent: #0f766e;
+  --profile-accent-strong: #0b5e59;
+  --profile-warm: #b45309;
+  --profile-surface: #f7fafc;
+  --profile-soft: #eef7f4;
+}
+
+.page__content,
+.archive {
+  color: var(--profile-ink);
+}
+
+.profile-hero,
+.cv-intro {
+  margin-bottom: 2rem;
+  padding: 2rem;
+  border: 1px solid var(--profile-line);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(15, 118, 110, 0.09), rgba(180, 83, 9, 0.06)),
+    #fff;
+}
+
+.profile-hero h1,
+.cv-intro h2 {
+  margin: 0.1rem 0 0.8rem;
+  color: #172033;
+  font-size: 2.15rem;
+  line-height: 1.08;
+}
+
+.profile-eyebrow,
+.item-meta {
+  margin-bottom: 0.45rem;
+  color: var(--profile-accent-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.profile-hero__lead,
+.cv-intro p {
+  max-width: 46rem;
+  color: var(--profile-muted);
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.profile-eyebrow,
+.cv-intro .profile-eyebrow,
+.item-meta {
+  color: var(--profile-accent-strong);
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.profile-hero__actions,
+.cv-intro__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.2rem 0;
+}
+
+.profile-hero .btn,
+.cv-intro .btn {
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.profile-hero .btn--primary,
+.cv-intro .btn--primary {
+  background-color: var(--profile-accent);
+}
+
+.profile-highlights {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.profile-highlights span {
+  display: block;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(15, 118, 110, 0.18);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.7);
+  color: var(--profile-muted);
+}
+
+.profile-highlights strong {
+  display: block;
+  color: var(--profile-ink);
+  font-size: 1rem;
+}
+
+.content-section,
+.cv-section {
+  margin: 2rem 0;
+}
+
+.content-section h2,
+.cv-section h2 {
+  margin-bottom: 1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--profile-line);
+  color: #172033;
+  font-size: 1.35rem;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+}
+
+.feature-card,
+.timeline-list article,
+.cv-item {
+  border: 1px solid var(--profile-line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.feature-card {
+  padding: 1rem;
+}
+
+.feature-card h3,
+.timeline-list h3,
+.cv-item h3 {
+  margin-top: 0;
+  color: #172033;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.feature-card p,
+.timeline-list p,
+.cv-item p,
+.cv-item li,
+.publication-list li,
+.skill-list li {
+  color: var(--profile-muted);
+  line-height: 1.6;
+}
+
+.timeline-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.timeline-list article,
+.cv-item {
+  padding: 1.15rem;
+}
+
+.skill-list {
+  padding-left: 1.1rem;
+}
+
+.cv-intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.cv-intro__actions {
+  margin: 0;
+}
+
+.cv-item {
+  margin-bottom: 1rem;
+}
+
+.cv-item__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.cv-item__header span {
+  flex: 0 0 auto;
+  color: var(--profile-warm);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.cv-item ul,
+.cv-section.compact ul,
+.publication-list {
+  margin-top: 0.75rem;
+  padding-left: 1.2rem;
+}
+
+.cv-item li + li,
+.cv-section.compact li + li,
+.publication-list li + li,
+.skill-list li + li {
+  margin-top: 0.45rem;
+}
+
+.skill-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.skill-cloud span {
+  padding: 0.45rem 0.65rem;
+  border: 1px solid rgba(15, 118, 110, 0.2);
+  border-radius: 4px;
+  background: var(--profile-soft);
+  color: var(--profile-accent-strong);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+@media (max-width: 700px) {
+  .profile-hero,
+  .cv-intro {
+    padding: 1.25rem;
+  }
+
+  .profile-hero h1,
+  .cv-intro h2 {
+    font-size: 1.75rem;
+  }
+
+  .cv-intro,
+  .cv-item__header {
+    display: block;
+  }
+
+  .cv-item__header span {
+    display: block;
+    margin-top: 0.25rem;
+  }
+}
