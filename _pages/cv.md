@@ -145,7 +145,12 @@ redirect_from:
 
 <section class="cv-section compact">
   <h2>Academic Service</h2>
-  <p><strong>Reviewer:</strong> IEEE Transactions on Communications; IEEE Open Journal of the Communications Society; IEEE Transactions on Mobile Computing.</p>
+  <p><strong>Reviewer:</strong></p>
+  <ul>
+    <li>IEEE Transactions on Communications</li>
+    <li>IEEE Open Journal of the Communications Society</li>
+    <li>IEEE Transactions on Mobile Computing</li>
+  </ul>
 </section>
 
 <section class="cv-section compact">
