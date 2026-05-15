@@ -144,6 +144,11 @@ redirect_from:
 </section>
 
 <section class="cv-section compact">
+  <h2>Academic Service</h2>
+  <p><strong>Reviewer:</strong> IEEE Transactions on Communications; IEEE Open Journal of the Communications Society; IEEE Transactions on Mobile Computing.</p>
+</section>
+
+<section class="cv-section compact">
   <h2>Honors and Awards</h2>
   <ul>
     <li>National Scholarship of China (Top 1%), Dec. 2020 and Nov. 2021.</li>
