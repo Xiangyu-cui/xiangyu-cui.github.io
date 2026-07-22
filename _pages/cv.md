@@ -14,7 +14,7 @@ redirect_from:
     <p>Ph.D. student in Electrical and Computer Engineering at New York University Abu Dhabi, currently based in New York.</p>
   </div>
   <div class="cv-intro__actions">
-    <a class="btn btn--primary" href="/files/Xiangyu_Cui_CV_April_2026.pdf"><i class="fa-solid fa-file-pdf icon-pad-right" aria-hidden="true"></i>Download CV</a>
+    <a class="btn btn--primary" href="/files/Xiangyu_Cui_CV_July_2026.pdf"><i class="fa-solid fa-file-pdf icon-pad-right" aria-hidden="true"></i>Download CV</a>
     <a class="btn btn--inverse" href="mailto:xc3212@nyu.edu"><i class="fa-solid fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a>
   </div>
 </section>
@@ -127,6 +127,7 @@ redirect_from:
 <section class="cv-section">
   <h2>Publications</h2>
   <ol class="publication-list">
+    <li>X. Cui and Q.-U.-A. Nadeem, "Channel Power Gain Analysis and Orientation Optimization of a Point-to-Point Continuous Aperture Array (CAPA) System," <em>IEEE Communications Letters</em>, early access, 2026.</li>
     <li>X. Cui, K.-H. Park, and M.-S. Alouini, "Channel Capacity Saturation Point and Beamforming Acceleration for Near-Field XL-MIMO Multiuser Communications," <em>IEEE Wireless Communications Letters</em>, vol. 15, pp. 1390-1394, 2026.</li>
     <li>X. Cui, K.-H. Park, and M.-S. Alouini, "Near-Field Analysis of Extremely Large-Scale MIMO: Power, Correlation, and User Selection," <em>IEEE Open Journal of the Communications Society</em>, vol. 6, pp. 252-270, 2024.</li>
     <li>X. Cui, K.-H. Park, and M.-S. Alouini, "Effect of Random Misalignment in the Capacity of Millimeter-Wave OAM," <em>IEEE Open Journal of the Communications Society</em>, vol. 5, pp. 1141-1154, 2024.</li>

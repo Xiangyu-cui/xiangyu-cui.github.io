@@ -18,7 +18,7 @@ redirect_from:
     communications, radio systems, and advanced MIMO technologies.
   </p>
   <div class="profile-hero__actions">
-    <a class="btn btn--primary" href="/files/Xiangyu_Cui_CV_April_2026.pdf"><i class="fa-solid fa-file-pdf icon-pad-right" aria-hidden="true"></i>CV</a>
+    <a class="btn btn--primary" href="/files/Xiangyu_Cui_CV_July_2026.pdf"><i class="fa-solid fa-file-pdf icon-pad-right" aria-hidden="true"></i>CV</a>
     <a class="btn btn--inverse" href="mailto:xc3212@nyu.edu"><i class="fa-solid fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a>
   </div>
 </section>
