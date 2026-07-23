@@ -31,13 +31,14 @@
 
 .profile-hero h1,
 .cv-intro h2 {
-  margin: 0.1rem 0 0.8rem;
+  margin: 0.1rem 0 0.55rem;
   color: #172033;
   font-size: 2.15rem;
   line-height: 1.08;
 }
 
 .profile-eyebrow,
+.profile-hero .profile-hero__eyebrow,
 .item-meta {
   margin-bottom: 0.45rem;
   color: var(--profile-accent-strong);
@@ -45,6 +46,14 @@
   font-weight: 700;
   letter-spacing: 0;
   text-transform: uppercase;
+}
+
+.profile-hero .profile-hero__subtitle {
+  margin: 0 0 1.35rem;
+  color: var(--profile-accent-strong);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.45;
 }
 
 .profile-hero__lead,
@@ -55,7 +64,17 @@
   line-height: 1.65;
 }
 
+.profile-hero__lead {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.profile-hero__lead p {
+  margin: 0;
+}
+
 .profile-eyebrow,
+.profile-hero .profile-hero__eyebrow,
 .cv-intro .profile-eyebrow,
 .item-meta {
   color: var(--profile-accent-strong);
@@ -70,7 +89,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.6rem;
-  margin: 1.2rem 0;
+  margin: 1.35rem 0 0;
 }
 
 .profile-hero .btn,

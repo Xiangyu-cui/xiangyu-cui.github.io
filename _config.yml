@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiangyu Cui"
+title                    : "Xiangyu Cui (Choi)"
 title_separator          : "-"
-name                     : &name "Xiangyu Cui"
+name                     : &name "Xiangyu Cui (Choi)"
 description              : &description "Ph.D. student and wireless communications researcher working on near-field communications, XL-MIMO, and continuous aperture arrays."
 url                      : https://xiangyu-cui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,10 @@ repository               : "Xiangyu-cui/xiangyu-cui.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiangyu Cui"
+  name             : "Xiangyu Cui (Choi)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at NYU Abu Dhabi, NYU wireless, NYU Tandon | Wireless Communications Researcher | 6G, XL-MIMO & Near-Field Communication | MATLAB & Python | Open to Research & Engineering internship Opportunities"
+  role             : "Ph.D. Student · Wireless Communications Researcher"
+  bio              : "NYU Abu Dhabi · NYU Tandon · NYU WIRELESS"
   location         : "New York, NY"
   employer         : "NYU Abu Dhabi"
   email            : "xc3212@nyu.edu" 
@@ -34,6 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=XKDc8r0AAAAJ&hl"
   impactstory      : # URL
   semantic         : # URL
+  orcid            : "https://orcid.org/0009-0003-5908-2370"
   researchgate     : "https://www.researchgate.net/profile/Xiangyu-Cui-4"
 
   # Repositories and software development
@@ -52,7 +54,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "cui-xiangyu-545952256"
+  linkedin         : "xiangyu-cui-choi-545952256"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

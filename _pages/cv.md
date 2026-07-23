@@ -10,7 +10,7 @@ redirect_from:
 <section class="cv-intro">
   <div>
     <p class="profile-eyebrow">Updated April 2026</p>
-    <h2>Xiangyu Cui</h2>
+    <h2>Xiangyu Cui (Choi)</h2>
     <p>Ph.D. student in Electrical and Computer Engineering at New York University Abu Dhabi, currently based in New York.</p>
   </div>
   <div class="cv-intro__actions">
