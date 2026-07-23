@@ -249,8 +249,8 @@
 
 .overview-publication {
   display: grid;
-  grid-template-columns: minmax(210px, 0.72fr) minmax(0, 1.6fr);
-  gap: 1.35rem;
+  grid-template-columns: minmax(280px, 0.9fr) minmax(0, 1.45fr);
+  gap: 1.5rem;
   padding: 1.25rem;
   border: 1px solid var(--profile-line);
   border-radius: 8px;
@@ -264,7 +264,7 @@
   flex-direction: column;
   justify-content: center;
   margin: 0;
-  padding: 0.8rem;
+  padding: 1rem;
   border: 1px solid rgba(15, 118, 110, 0.13);
   border-radius: 6px;
   background: var(--profile-surface);
@@ -273,18 +273,8 @@
 .overview-publication__figure img {
   display: block;
   width: 100%;
-  height: 220px;
+  height: 290px;
   object-fit: contain;
-}
-
-.overview-publication__figure figcaption {
-  margin-top: 0.65rem;
-  color: var(--profile-muted);
-  font-family: $caption-font-family;
-  font-size: 0.75rem;
-  font-style: italic;
-  line-height: 1.4;
-  text-align: center;
 }
 
 .overview-publication__venue {
@@ -453,7 +443,7 @@
 
   .overview-publication__figure img {
     height: auto;
-    max-height: 260px;
+    max-height: 320px;
   }
 
   .cv-item__header span {

@@ -118,7 +118,6 @@ redirect_from:
     <article class="overview-publication">
       <figure class="overview-publication__figure">
         <img src="/images/publications/capa-orientation-figure.png" alt="Geometry of two arbitrarily oriented continuous aperture arrays" loading="lazy">
-        <figcaption>CAPA system geometry · Figure 1</figcaption>
       </figure>
       <div class="overview-publication__content">
         <p class="overview-publication__venue">IEEE Communications Letters · 2026</p>
@@ -132,7 +131,6 @@ redirect_from:
     <article class="overview-publication">
       <figure class="overview-publication__figure">
         <img src="/images/publications/capacity-saturation-figure-1.png" alt="Projected non-uniform spherical wave channel for a uniform linear array" loading="lazy">
-        <figcaption>PNUSW channel model · Figure 1</figcaption>
       </figure>
       <div class="overview-publication__content">
         <p class="overview-publication__venue">IEEE Wireless Communications Letters · 2026</p>
@@ -146,7 +144,6 @@ redirect_from:
     <article class="overview-publication">
       <figure class="overview-publication__figure">
         <img src="/images/publications/near-field-xl-mimo-figure-2.png" alt="Uniform rectangular array geometry with two users" loading="lazy">
-        <figcaption>URA system geometry · Figure 2</figcaption>
       </figure>
       <div class="overview-publication__content">
         <p class="overview-publication__venue">IEEE Open Journal of the Communications Society · 2024</p>
@@ -160,7 +157,6 @@ redirect_from:
     <article class="overview-publication">
       <figure class="overview-publication__figure">
         <img src="/images/publications/oam-misalignment-figure-1.png" alt="Geometric system model for misaligned orbital angular momentum transmitter and receiver arrays" loading="lazy">
-        <figcaption>OAM misalignment model · Figure 1</figcaption>
       </figure>
       <div class="overview-publication__content">
         <p class="overview-publication__venue">IEEE Open Journal of the Communications Society · 2024</p>
