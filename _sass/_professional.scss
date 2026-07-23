@@ -242,6 +242,129 @@
   margin-top: 0.45rem;
 }
 
+.overview-publications {
+  display: grid;
+  gap: 1.4rem;
+}
+
+.overview-publication {
+  display: grid;
+  grid-template-columns: minmax(210px, 0.72fr) minmax(0, 1.6fr);
+  gap: 1.35rem;
+  padding: 1.25rem;
+  border: 1px solid var(--profile-line);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(37, 48, 64, 0.05);
+}
+
+.overview-publication__figure {
+  display: flex;
+  align-self: start;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+  padding: 0.8rem;
+  border: 1px solid rgba(15, 118, 110, 0.13);
+  border-radius: 6px;
+  background: var(--profile-surface);
+}
+
+.overview-publication__figure img {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: contain;
+}
+
+.overview-publication__figure figcaption {
+  margin-top: 0.65rem;
+  color: var(--profile-muted);
+  font-family: $caption-font-family;
+  font-size: 0.75rem;
+  font-style: italic;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.overview-publication__venue {
+  margin: 0 0 0.45rem;
+  color: var(--profile-accent-strong);
+  font-family: $sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.035em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.overview-publication__title {
+  margin: 0;
+  color: #172033;
+  font-family: $serif;
+  font-size: 1.13rem;
+  line-height: 1.35;
+}
+
+.overview-publication__title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.overview-publication__title a:hover {
+  color: var(--profile-accent-strong);
+  text-decoration: underline;
+}
+
+.overview-publication__authors {
+  margin: 0.5rem 0 1rem;
+  color: var(--profile-muted);
+  font-family: $serif;
+  font-size: 0.88rem;
+  font-style: italic;
+}
+
+.overview-publication__abstract-title {
+  margin: 0 0 0.25rem;
+  color: var(--profile-ink);
+  font-family: $sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.overview-publication__abstract {
+  margin: 0;
+  color: var(--profile-muted);
+  font-family: $sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.62;
+}
+
+.reviewer-groups {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.reviewer-group {
+  padding: 1rem;
+  border: 1px solid var(--profile-line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.reviewer-group h3 {
+  margin: 0;
+  color: #172033;
+  font-family: $serif;
+  font-size: 1rem;
+}
+
+.cv-section.compact .reviewer-group ul {
+  margin-bottom: 0;
+}
+
 .skill-cloud {
   display: flex;
   flex-wrap: wrap;
@@ -319,8 +442,18 @@
 
   .cv-intro,
   .cv-item__header,
-  .skill-table div {
+  .skill-table div,
+  .overview-publication {
     display: block;
+  }
+
+  .overview-publication__figure {
+    margin-bottom: 1rem;
+  }
+
+  .overview-publication__figure img {
+    height: auto;
+    max-height: 260px;
   }
 
   .cv-item__header span {

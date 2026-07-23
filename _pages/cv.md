@@ -114,12 +114,63 @@ redirect_from:
 
 <section class="cv-section">
   <h2>Publications</h2>
-  <ol class="publication-list">
-    <li>X. Cui and Q.-U.-A. Nadeem, "Channel Power Gain Analysis and Orientation Optimization of a Point-to-Point Continuous Aperture Array (CAPA) System," <em>IEEE Communications Letters</em>, early access, 2026.</li>
-    <li>X. Cui, K.-H. Park, and M.-S. Alouini, "Channel Capacity Saturation Point and Beamforming Acceleration for Near-Field XL-MIMO Multiuser Communications," <em>IEEE Wireless Communications Letters</em>, vol. 15, pp. 1390-1394, 2026.</li>
-    <li>X. Cui, K.-H. Park, and M.-S. Alouini, "Near-Field Analysis of Extremely Large-Scale MIMO: Power, Correlation, and User Selection," <em>IEEE Open Journal of the Communications Society</em>, vol. 6, pp. 252-270, 2024.</li>
-    <li>X. Cui, K.-H. Park, and M.-S. Alouini, "Effect of Random Misalignment in the Capacity of Millimeter-Wave OAM," <em>IEEE Open Journal of the Communications Society</em>, vol. 5, pp. 1141-1154, 2024.</li>
-  </ol>
+  <div class="overview-publications">
+    <article class="overview-publication">
+      <figure class="overview-publication__figure">
+        <img src="/images/publications/capa-orientation-figure.png" alt="Geometry of two arbitrarily oriented continuous aperture arrays" loading="lazy">
+        <figcaption>CAPA system geometry · Figure 1</figcaption>
+      </figure>
+      <div class="overview-publication__content">
+        <p class="overview-publication__venue">IEEE Communications Letters · 2026</p>
+        <h3 class="overview-publication__title"><a href="https://ieeexplore.ieee.org/document/11614098">Channel Power Gain Analysis and Orientation Optimization of a Point-to-Point Continuous Aperture Array (CAPA) System</a></h3>
+        <p class="overview-publication__authors">X. Cui and Q.-U.-A. Nadeem</p>
+        <h4 class="overview-publication__abstract-title">Abstract</h4>
+        <p class="overview-publication__abstract">Continuous aperture arrays (CAPAs) revolutionize conventional multiple-input multiple-output (MIMO) architectures by modeling the radiating aperture as a continuous current distribution rather than a finite set of discrete elements. These spatially-continuous surfaces enable fine-grained manipulation of electromagnetic (EM) wavefronts to improve communication performance by increasing the channel gain and the available degrees-of-freedom (DoF). In contrast to existing literature that focuses on near-field DoF analysis, we derive a semi-closed-form expression for the near-field channel power gain (CPG) of a point-to-point CAPA-based communications system over the dyadic Green's function based channel, incorporating polarization effects. We show that the expression can dramatically decrease the computational complexity compared to evaluating the original integral-based formula, accelerating CPG-based analysis and optimization. We further use the derived expression to find the optimal orientations of transmit (Tx) and receive (Rx) CAPAs under different system geometries. Simulation results validate the accuracy and implementation speed of the derived expression. They further show that the optimal orientation is not always parallel, but varies depending on the relative misalignment and distance between Tx and Rx CAPAs.</p>
+      </div>
+    </article>
+
+    <article class="overview-publication">
+      <figure class="overview-publication__figure">
+        <img src="/images/publications/capacity-saturation-figure-1.png" alt="Projected non-uniform spherical wave channel for a uniform linear array" loading="lazy">
+        <figcaption>PNUSW channel model · Figure 1</figcaption>
+      </figure>
+      <div class="overview-publication__content">
+        <p class="overview-publication__venue">IEEE Wireless Communications Letters · 2026</p>
+        <h3 class="overview-publication__title"><a href="https://arxiv.org/abs/2503.18118">Channel Capacity Saturation Point and Beamforming Acceleration for Near-Field XL-MIMO Multiuser Communications</a></h3>
+        <p class="overview-publication__authors">X. Cui, K.-H. Park, and M.-S. Alouini</p>
+        <h4 class="overview-publication__abstract-title">Abstract</h4>
+        <p class="overview-publication__abstract">One of the most important technologies in the fifth generation (5G) and the sixth generation (6G) is massive multiple input multiple outputs (MIMO) or extremely large-scale MIMO (XL-MIMO). With the evolving high-frequency technologies in millimeter band or teraHz band, the communication scene is changing into near-field rather than the conventional far-field scenario. In this letter, instead of advertising the XL-MIMO in the near-field, we appeal that a limit should be set on the size of the antenna array, beyond which the channel capacity will not show a significant increase. We show capacity saturation point can be analytically determined. Moreover, we propose a new beamforming algorithm that relieves the heavy computation due to the large antenna size even around the saturation point. Numerical results are provided to validate our analysis and show the performance of our newly proposed beamforming scheme.</p>
+      </div>
+    </article>
+
+    <article class="overview-publication">
+      <figure class="overview-publication__figure">
+        <img src="/images/publications/near-field-xl-mimo-figure-2.png" alt="Uniform rectangular array geometry with two users" loading="lazy">
+        <figcaption>URA system geometry · Figure 2</figcaption>
+      </figure>
+      <div class="overview-publication__content">
+        <p class="overview-publication__venue">IEEE Open Journal of the Communications Society · 2024</p>
+        <h3 class="overview-publication__title"><a href="https://ieeexplore.ieee.org/document/10810362">Near-Field Analysis of Extremely Large-Scale MIMO: Power, Correlation, and User Selection</a></h3>
+        <p class="overview-publication__authors">X. Cui, K.-H. Park, and M.-S. Alouini</p>
+        <h4 class="overview-publication__abstract-title">Abstract</h4>
+        <p class="overview-publication__abstract">With the fast development of communication technology, mobile networks have been evolving from the fifth generation (5G) to the sixth generation (6G). One of the most important technologies in 5G is massive multiple input multiple output (MIMO). In 6G, it has been extended to extremely large-scale MIMO (XL-MIMO) over the TeraHz band, which makes it easier for users to fall into the near-field communication range. However, the previous performance analysis based on the far-field assumption can be very inaccurate under the near-field scenario. Hence, it is necessary to use the near-field channel models to redo these analyses. In this work, we summarize previous analytical results on received signal-to-noise ratio for specific near-field wave models. Then, we derive the generalized formula for the received power of different wave models and antenna structures. We newly derive our closed-form formula for the correlation between different users by the stationary phase method. These results can be applied to different beam-forming schemes and the multipath case. Based on these analytical results, we manage to make a sum rate analysis for different antenna arrays and near-field channel models in a multi-user XL-MIMO system. Finally, with the modification by our analytical result, we show a dramatic speed-up of the previous user selection algorithm, while reaching the same sum rate.</p>
+      </div>
+    </article>
+
+    <article class="overview-publication">
+      <figure class="overview-publication__figure">
+        <img src="/images/publications/oam-misalignment-figure-1.png" alt="Geometric system model for misaligned orbital angular momentum transmitter and receiver arrays" loading="lazy">
+        <figcaption>OAM misalignment model · Figure 1</figcaption>
+      </figure>
+      <div class="overview-publication__content">
+        <p class="overview-publication__venue">IEEE Open Journal of the Communications Society · 2024</p>
+        <h3 class="overview-publication__title"><a href="https://ieeexplore.ieee.org/abstract/document/10418466">Effect of Random Misalignment in the Capacity of Millimeter-Wave OAM</a></h3>
+        <p class="overview-publication__authors">X. Cui, K.-H. Park, and M.-S. Alouini</p>
+        <h4 class="overview-publication__abstract-title">Abstract</h4>
+        <p class="overview-publication__abstract">Since the discovery of vortex beams by Allen et al., there has been a growing interest in exploring the applications of orbital angular momentum (OAM) in communication. Among all these researches, especially radio frequency (RF) wireless communication based on OAM should be one of the most promising research topics since the frequency resource is increasingly scarce and OAM can provide us with a new degree of freedom besides frequency, time, and space. In the context of wireless communication, millimeter wave and terahertz communication have gained extensive attention to harness spectrum resources. However, due to the short wavelength at these frequencies, line of sight (LOS) channels dominate. OAM, even in LOS channels, offers an additional degree of freedom compared to conventional multiple input multiple output systems. Yet, there are strict requirements for free-space OAM, one of which is the strict alignment between antenna arrays. To the best of our knowledge, there has not been any work about the capacity analysis of OAM communication under random misalignment. In this article, we obtain accurate closed-form intensity for a given misalignment value for both indoor and outdoor situations. Moreover, based on these intensity formulas, we analyze the average capacity under 2-D Gaussian random misalignment numerically and validate its accuracy by simulation. Besides, we illustrate that the Gauss-Laguerre quadrature can be used to reduce the computation complexity in the real environment. Moreover, we analyze the relationship between the average capacity and system parameters such as the array radii, signal-to-noise ratio, and misalignment distribution standard deviation for both indoor and outdoor situations. At last, we verify our work is also effective for the concentric circular array. This work could be a reference to the implementation of a practical RF OAM communication system.</p>
+      </div>
+    </article>
+  </div>
 </section>
 
 <section class="cv-section compact">
@@ -134,13 +185,22 @@ redirect_from:
 
 <section class="cv-section compact">
   <h2>Academic Service</h2>
-  <p><strong>Reviewer:</strong></p>
-  <ul>
-    <li>2026 IEEE International Conference on Communications Workshops</li>
-    <li>IEEE Transactions on Communications</li>
-    <li>IEEE Open Journal of the Communications Society</li>
-    <li>IEEE Transactions on Mobile Computing</li>
-  </ul>
+  <div class="reviewer-groups">
+    <div class="reviewer-group">
+      <h3>Journal Reviewer</h3>
+      <ul>
+        <li>IEEE Transactions on Communications</li>
+        <li>IEEE Open Journal of the Communications Society</li>
+        <li>IEEE Transactions on Mobile Computing</li>
+      </ul>
+    </div>
+    <div class="reviewer-group">
+      <h3>Conference Reviewer</h3>
+      <ul>
+        <li>2026 IEEE International Conference on Communications Workshops</li>
+      </ul>
+    </div>
+  </div>
 </section>
 
 <section class="cv-section compact">
