@@ -7,17 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<section class="cv-intro">
-  <div>
-    <h2>Xiangyu Cui (Choi)</h2>
-    <p>Ph.D. candidate in Electrical and Computer Engineering at New York University Abu Dhabi, currently based in New York.</p>
-  </div>
-  <div class="cv-intro__actions">
-    <a class="btn btn--primary" href="/files/Xiangyu_Cui_CV_July_2026.pdf"><i class="fa-solid fa-file-pdf icon-pad-right" aria-hidden="true"></i>Download CV</a>
-    <a class="btn btn--inverse" href="mailto:xc3212@nyu.edu"><i class="fa-solid fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a>
-  </div>
-</section>
-
 <section class="cv-section">
   <h2>Education</h2>
   <div class="cv-item">
