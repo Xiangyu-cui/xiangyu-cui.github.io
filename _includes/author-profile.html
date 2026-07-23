@@ -17,8 +17,20 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.role %}<p class="author__role">{{ author.role }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.roles %}
+      <div class="author__roles">
+        {% for role in author.roles %}<p class="author__role">{{ role }}</p>{% endfor %}
+      </div>
+    {% elsif author.role %}
+      <p class="author__role">{{ author.role }}</p>
+    {% endif %}
+    {% if author.affiliations %}
+      <div class="author__affiliations">
+        {% for affiliation in author.affiliations %}<p class="author__affiliation">{{ affiliation }}</p>{% endfor %}
+      </div>
+    {% elsif author.bio %}
+      <p class="author__bio">{{ author.bio }}</p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">

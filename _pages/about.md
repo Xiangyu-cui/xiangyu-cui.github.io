@@ -10,10 +10,10 @@ redirect_from:
 <section class="profile-hero">
   <p class="profile-hero__eyebrow">Wireless Communications Researcher</p>
   <h1>Xiangyu Cui (Choi)</h1>
-  <p class="profile-hero__subtitle">Ph.D. Student in Electrical and Computer Engineering</p>
+  <p class="profile-hero__subtitle">Ph.D. Candidate in Electrical and Computer Engineering</p>
   <div class="profile-hero__lead">
     <p>
-      I am a Ph.D. student at New York University Abu Dhabi, affiliated with NYU Tandon School of
+      <strong class="profile-hero__hello">Hello!</strong> I am a Ph.D. candidate at New York University Abu Dhabi, affiliated with NYU Tandon School of
       Engineering and NYU WIRELESS. I am advised by Prof. Qurrat-Ul-Ain Nadeem and currently based in
       New York.
     </p>

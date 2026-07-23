@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Overview"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,8 @@ redirect_from:
 
 <section class="cv-intro">
   <div>
-    <p class="profile-eyebrow">Updated April 2026</p>
     <h2>Xiangyu Cui (Choi)</h2>
-    <p>Ph.D. student in Electrical and Computer Engineering at New York University Abu Dhabi, currently based in New York.</p>
+    <p>Ph.D. candidate in Electrical and Computer Engineering at New York University Abu Dhabi, currently based in New York.</p>
   </div>
   <div class="cv-intro__actions">
     <a class="btn btn--primary" href="/files/Xiangyu_Cui_CV_July_2026.pdf"><i class="fa-solid fa-file-pdf icon-pad-right" aria-hidden="true"></i>Download CV</a>
@@ -137,10 +136,10 @@ redirect_from:
 <section class="cv-section compact">
   <h2>Conferences</h2>
   <ul>
-    <li>4th KAUST 6G Summit, Thuwal, Saudi Arabia, Nov. 27-29, 2023.</li>
-    <li>5th KAUST 6G Summit, Thuwal, Saudi Arabia, Nov. 4-5, 2024.</li>
-    <li>Abu Dhabi 6G Summit, Abu Dhabi, UAE, Nov. 14-15, 2024.</li>
     <li>IEEE Communication Theory Workshop (CTW), Murano, Venice, Italy, May 4-7, 2025.</li>
+    <li>Abu Dhabi 6G Summit, Abu Dhabi, UAE, Nov. 14-15, 2024.</li>
+    <li>5th KAUST 6G Summit, Thuwal, Saudi Arabia, Nov. 4-5, 2024.</li>
+    <li>4th KAUST 6G Summit, Thuwal, Saudi Arabia, Nov. 27-29, 2023.</li>
   </ul>
 </section>
 
@@ -148,6 +147,7 @@ redirect_from:
   <h2>Academic Service</h2>
   <p><strong>Reviewer:</strong></p>
   <ul>
+    <li>2026 IEEE International Conference on Communications Workshops</li>
     <li>IEEE Transactions on Communications</li>
     <li>IEEE Open Journal of the Communications Society</li>
     <li>IEEE Transactions on Mobile Computing</li>

@@ -156,11 +156,34 @@
   }
 }
 
+.author__roles {
+  margin-top: 0.4rem;
+}
+
 .sidebar .author__role {
-  margin: 0.4rem 0 0;
+  margin: 0;
   color: $text-color;
   font-weight: 600;
   line-height: 1.45;
+}
+
+.sidebar .author__role + .author__role {
+  margin-top: 0.15rem;
+}
+
+.author__affiliations {
+  margin-top: 0.55rem;
+  margin-bottom: 20px;
+}
+
+.sidebar .author__affiliation {
+  margin: 0;
+  color: mix(#fff, $gray, 20%);
+  line-height: 1.45;
+}
+
+.sidebar .author__affiliation + .author__affiliation {
+  margin-top: 0.1rem;
 }
 
 .author__urls-wrapper {
